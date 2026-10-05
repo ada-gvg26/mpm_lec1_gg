@@ -7,5 +7,8 @@ def weird_function(x):
 def another_weird_function(x):
     return x*np.pi*2
 
+def another_crazy_function(x):
+    return x*np.pi*3
+   
 def exercise_function(x):
     return x*np.pi*3
